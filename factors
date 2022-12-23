@@ -1,6 +1,8 @@
 #!/usr/bin/python3
+
 from sys import argv
 from math import sqrt
+
 
 def factor():
     with open(argv[1]) as f:

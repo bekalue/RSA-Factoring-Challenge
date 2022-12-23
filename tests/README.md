@@ -38,7 +38,7 @@ real    0m0.009s
 user    0m0.008s
 sys 0m0.001s
 ```
-## Task 2
+## Task 1
 
 ```
 julien@ubuntu:~/RSA Factoring Challenge$ cat tests/rsa-1
